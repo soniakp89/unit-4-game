@@ -1,0 +1,88 @@
+body {
+    background-image: url("/Users/soniapandit/Desktop/unit-4-game-master/Assets/Images/starbackground.png");
+}
+
+.Top-header {
+    background-color: black;
+    width: 450px;
+    text-align: center;
+}
+
+.middle-text {
+    background-color: black;
+    padding: 20 px;
+    color: purple;
+    width: 450px;
+    height: 350px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    background: white;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+p {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    margin: 6px 0px;
+}
+
+
+h1, h3, h4 {
+    padding: 20px 10px;
+    color: rgb(92, 86, 177);
+    margin: 3px 0px;
+}
+
+h2 {
+    padding: 10px 5px;
+    color: blueviolet;
+    margin: 6px 0px;
+}
+
+
+
+#gems {
+    clear: left;
+}
+
+.random {
+    background-color: rgb(95, 28, 84);
+    width: 130px;
+    height: 130px;
+    float: left;
+    margin: 0px 10px 10px 0px; 
+}
+
+.score {
+    background-color: lightslategray;
+    width: 130px;
+    height: 130px;
+    float: left;
+    padding-left: 10px;
+}
+
+.total {
+    background-color: purple;
+    color: rgb(70, 53, 53);
+    width: 200px;
+}
+
+.currentScore {
+    background-color: rgb(2, 39, 35);
+    color:blue;
+    width: 200px;
+    height: 50px;
+}
+
+
+
+
